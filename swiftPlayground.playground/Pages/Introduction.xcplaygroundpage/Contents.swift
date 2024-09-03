@@ -8,7 +8,7 @@ import Foundation
 This is the structure Swift Playground notebook that will tell a story of graphs.
  Also, it is better to learn in context with many connections, as we don't want to
  flush this knowledge down the chute once anyone gets a job after the
- algorithms interview hazing is through. 
+ algorithms interview hazing is through.
  
  * [Coffee and Algorithms: The Plague](https://sudoroom.org/events/coffee-algorithms-social-networks-and-revolution-2/)
  
