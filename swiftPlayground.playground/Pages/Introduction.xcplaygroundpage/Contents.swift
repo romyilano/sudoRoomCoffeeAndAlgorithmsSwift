@@ -1,11 +1,12 @@
 import UIKit
 import Foundation
-//: [Representation](Representation)
+
 /*:
  
 # Graph Representation
  
- ![graph whiteboard](whiteboard1.jpeg)
+
+![graph whiteboard](whiteboard1.jpeg)
  
  From Leetcode there is a very nice description of graphs and representations
  at in their interview crash course page on [Trees and graphs](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/707/traversals-trees-graphs/4721/)
@@ -15,7 +16,7 @@ import Foundation
  
 # Ways of Representing Graphs
  
-
+The ea
  */
 
 
@@ -32,4 +33,4 @@ var isolated: [[Int]] = [
  
  ![plague doctor](Plague.jpg)
  */
- 
+//: [Next: Representation](Representation)
