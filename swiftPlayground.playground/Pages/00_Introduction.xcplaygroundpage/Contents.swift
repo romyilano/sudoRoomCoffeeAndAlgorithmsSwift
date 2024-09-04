@@ -19,7 +19,7 @@ This is the structure Swift Playground notebook that will tell a story of graphs
  
  ![plague doctor](Plague.jpg)
  */
-//: [Next: Representation](Representation)
+//: [Next: Representation](01_Representation)
 
 /*:
  
@@ -30,4 +30,4 @@ This is the structure Swift Playground notebook that will tell a story of graphs
  
  */
 
-//: [Next: Representation](Representation)
+//: [Next: Representation](01_Representation)

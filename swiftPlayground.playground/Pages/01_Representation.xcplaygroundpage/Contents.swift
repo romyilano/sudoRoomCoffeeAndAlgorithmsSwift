@@ -83,4 +83,4 @@ print(graph)
 
 
 
-//: [Next](AdjacencyMatrix)
+//: [Next](02_AdjacencyList)
